@@ -127,7 +127,7 @@ kagglehub
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Moamen-Elgohary/Loan_Approval_Prediction
+   git clone https://github.com/Moamen-Elgohary/Loan-Approval-Prediction
    ```
 2. Install the required dependencies:
    ```bash
